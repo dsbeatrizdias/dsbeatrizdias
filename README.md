@@ -11,7 +11,6 @@
 ## 🚀 About me
 
 - 📍 Osasco, SP - Brazil  
-- 📚 Currently studying Data Science at FIAP  
 - 💡 Passionate about learning and solving problems with technology  
 - 🎯 Looking for my first opportunity in tech  
 
