@@ -1,6 +1,6 @@
 👋 Hello! Welcome to my GitHub profile.
 
-# 👋 Hi, I'm Beatriz!
+# I'm Beatriz!
 
 🎓 Data Science student at FIAP  
 💻 Learning Python, data analysis and Git/GitHub  
