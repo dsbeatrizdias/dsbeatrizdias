@@ -38,11 +38,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizdias-ds/)
 
 ## 📊 GitHub Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsbeatrizdias&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsbeatrizdias&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dsbeatrizdias&theme=radical)
 
 ---
