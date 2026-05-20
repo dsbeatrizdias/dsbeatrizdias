@@ -41,5 +41,21 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dsbeatrizdias&theme=radical)
 
 ---
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dsbeatrizdias/dsbeatrizdias/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dsbeatrizdias/dsbeatrizdias/output/github-snake.svg"
+    />
+    <img
+      alt="Animação da cobra consumindo o gráfico de contribuições"
+      src="https://raw.githubusercontent.com/dsbeatrizdias/dsbeatrizdias/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 
